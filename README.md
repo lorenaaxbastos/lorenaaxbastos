@@ -1,6 +1,6 @@
 # About me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-e8f2f8?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lorena-pereira-de-almeida-bastos-assis/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e8f2f8?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lorenaaxbastos/?locale=en_US)&nbsp;
 
 I have a degree in Visual Arts and extensive creative experience. I am currently studying Software Engineering and participating in Santander Coders 2023.2 | Data Science.
 
