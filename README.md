@@ -12,29 +12,29 @@ What sets me apart is my unique ability to transform data into impactful visual 
 
 ![Data Science](https://img.shields.io/badge/Data_Science-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
 ![Python](https://img.shields.io/badge/Python-ff617d?style=for-the-badge&logo=python&logoColor=fff)&nbsp;
-![ETL](https://img.shields.io/badge/ETL-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
-![Requests](https://img.shields.io/badge/Requests-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
+![ETL](https://img.shields.io/badge/ETL-ff617d?style=for-the-badge&logo=etl&logoColor=fff)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-ff617d?style=for-the-badge&logo=numpy&logoColor=fff)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-ff617d?style=for-the-badge&logo=pandas&logoColor=fff)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff617d?style=for-the-badge&logo=matplotlib&logoColor=fff)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-ff617d?style=for-the-badge&logo=seaborn&logoColor=fff)&nbsp;
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-ff617d?style=for-the-badge&logo=bs4&logoColor=fff)&nbsp;
+![Requests](https://img.shields.io/badge/Requests-ff617d?style=for-the-badge&logo=requests&logoColor=fff)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-ff617d?style=for-the-badge&logo=jupyter&logoColor=fff)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-ff617d?style=for-the-badge&logo=sql&logoColor=fff)&nbsp;
 ![Git](https://img.shields.io/badge/Git-ff617d?style=for-the-badge&logo=git&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-ff617d?style=for-the-badge&logo=github&logoColor=fff)&nbsp;
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-ff617d?style=for-the-badge&logo=web_scraping&logoColor=fff)&nbsp;
 ![Power_BI](https://img.shields.io/badge/Power_BI-ff617d?style=for-the-badge&logo=powerbi&logoColor=fff)&nbsp;
-![Office 365](https://img.shields.io/badge/Office_365-ff617d?style=for-the-badge&logoColor=fff)&nbsp;
+![Office 365](https://img.shields.io/badge/Office_365-ff617d?style=for-the-badge&logo=office&logoColor=fff)&nbsp;
 ![Database](https://img.shields.io/badge/Database-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
 ![Statistics](https://img.shields.io/badge/Statistics-ff617d?style=for-the-badge&logo=statistics&logoColor=fff)&nbsp;
-![Logic](https://img.shields.io/badge/logic-ff617d?style=for-the-badge&logo=Statistics&logoColor=fff)&nbsp;
-![Creative Coding](https://img.shields.io/badge/Database-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
-![Object Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
-![Data Analysis and Storytelling](https://img.shields.io/badge/Data_Analysis_and_Storytelling-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
-![TDD](https://img.shields.io/badge/TDD-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
-![Scrum](https://img.shields.io/badge/Scrum-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
-![Kanban](https://img.shields.io/badge/Kanban-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
+![Logic](https://img.shields.io/badge/logic-ff617d?style=for-the-badge&logo=logic&logoColor=fff)&nbsp;
+![Creative Coding](https://img.shields.io/badge/Database-ff617d?style=for-the-badge&logo=creativecoding&logoColor=fff)&nbsp;
+![Object Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-ff617d?style=for-the-badge&logo=oop&logoColor=fff)&nbsp;
+![Data Analysis and Storytelling](https://img.shields.io/badge/Data_Analysis_and_Storytelling-ff617d?style=for-the-badge&logo=dataanalysis&logoColor=fff)&nbsp;
+![TDD](https://img.shields.io/badge/TDD-ff617d?style=for-the-badge&logo=tdd&logoColor=fff)&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-ff617d?style=for-the-badge&logo=scrum&logoColor=fff)&nbsp;
+![Kanban](https://img.shields.io/badge/Kanban-ff617d?style=for-the-badge&logo=kanban&logoColor=fff)&nbsp;
 
 ### SOFT SKILLS
 
