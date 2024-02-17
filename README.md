@@ -25,7 +25,7 @@ What sets me apart is my unique ability to transform data into impactful visual 
 ![GitHub](https://img.shields.io/badge/GitHub-ff617d?style=for-the-badge&logo=github&logoColor=fff)&nbsp;
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-ff617d?style=for-the-badge&logo=datascience&logoColor=fff)&nbsp;
 ![Power_BI](https://img.shields.io/badge/Power_BI-ff617d?style=for-the-badge&logo=powerbi&logoColor=fff)&nbsp;
-![Office 365](https://img.shields.io/badge/Office_365-ff617d?style=for-the-badge&logo=powerbi&logoColor=fff)&nbsp;
+![Office 365](https://img.shields.io/badge/Office_365-ff617d?style=for-the-badge&logoColor=fff)&nbsp;
 ![Database](https://img.shields.io/badge/Database-ff617d?style=for-the-badge&logo=database&logoColor=fff)&nbsp;
 ![Statistics](https://img.shields.io/badge/Statistics-ff617d?style=for-the-badge&logo=statistics&logoColor=fff)&nbsp;
 ![Logic](https://img.shields.io/badge/logic-ff617d?style=for-the-badge&logo=Statistics&logoColor=fff)&nbsp;
